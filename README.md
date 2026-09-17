@@ -9,7 +9,6 @@ Welcome to this repository! This README is intentionally structured with Markdow
 - [Installation](#installation) -> [Broken Link](#non-existent-section)
 - [Usage](#usage)
 - [Issues & Bugs](#issues--bugs)
-
 ---
 
 ## Introduction
